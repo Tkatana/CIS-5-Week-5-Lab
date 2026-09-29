@@ -13,7 +13,7 @@ int main() {
   std::cin >> gpa;
 
   bool adult = age >= 17;
-  // changed age because this scholarship is for high school seniors, so 17 is the minimum age to apply 
+  // changed age because this scholarship can be applied for by for high school seniors
   bool honors = gpa >= 3.75;
   // changed gpa because this scholarship is for students with a high GPA
 
