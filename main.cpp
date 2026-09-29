@@ -32,7 +32,5 @@ int main() {
   std::cout << "You do not meet the requirements. \n";
   }
 
-  // Edge values to run: 17 / 18 with a 3.8, and 3.4 / 3.5 with age 20
-
   return 0;
 }
