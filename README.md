@@ -12,8 +12,7 @@ Work without a working video link is incomplete.
 
 In the video: run the four combinations (20 / 3.8, 20 / 3.0, 16 / 3.8, 16 / 3.0), then the edge values 17 and 18, and 3.4 and 3.5. Say which branch will fire before you press Enter.
 
-**Your demo:** _add your link here_
-
+**Your demo:**  https://drive.google.com/file/d/1ps7O6PHYzIx5BYC2ECap3k22OGE5LZM7/view?usp=drive_link
 
 ## Scenario
 Every program so far ran the same lines every time. This one reads two answers and picks a path. Ask for an age and a GPA, name two `bool` answers, and print one of three messages depending on which requirements are met. Then prove the thresholds by running the edge values.
